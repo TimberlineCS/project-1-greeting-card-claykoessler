@@ -1,33 +1,29 @@
-# Greeting Card
+# Project 1: Greeting Card
 
-## Project Overview
-In this project you will apply JavaScript to the DOM to create a greeting card on an HTML page.  
+* Author: Clay Koessler
+* Class: AP CSP
+* Semester: 1
 
-## Objectives
+## Overview
 
-- [ ] Create HTML elements
-- [ ] Use JavaScript to manipulate HTML elements
-- [ ] Use variables to manage data
+This JavaScript code formats a Christmas card on an html webpage with different colors, shapes, text, and a music element.
 
-## Specifications
+## Compiling and Using
 
-Create a Greeting Card on an HTML page.  Your Greeting Card should include at least 10 different HTML elements.  You must use JavaScript (only) to manipulate your elements in such a way that they come together to clearly resemble a picture.   Your Greeting Card should include a variety of colors (at least 5), text, and music. 
+To access the card, hit command o, open the project folder, and double click on the index.html to open the card in your browser. 
 
-An example of a Greeting Card that meets all the requirements is provided here ([GreetingCard.jpg](GreetingCard.jpg))
+## Discussion
 
-## Your Tasks
+ I had many problems making my card backgroud green because I was trying to create a green border in the app.js section, instead of setting the background color to green in the index.html. I also had some problems deciding what to make on my card, but eventually I was able to figure it out. I also had some stuggles getting my white balls to be on the outside border, but after I set the width and height I was able to figure it out. 
+ I had to ask my peers and research to figure out how to use a downloaded google font on my card. I had to use outside resources in order to download my Drake song off of YouTube so I could put it on my card.  To make my program I created 14 divs on my index.html page and assigned a variable to each div. I then seperatly styled each of those variables into the content and design I desired. I don't have anything I would change about my project.
 
-- [ ] Locate the index.html page.  Here you will create the basic elements for your page.  You must include at least 10 different elements. 
-- [ ] Locate the App.js file.  Write code to manipulate the elements on your index.html page
-- [ ] Include music with your GreetingCard.  See the resources below for how to embed audio, 
+## Drake Song Reasoning
 
-	* [https://www.w3schools.com/html/html5_audio.asp](https://www.w3schools.com/html/html5_audio.asp)
-	* [https://youtu.be/1Bl2WVQGfiE](https://youtu.be/1Bl2WVQGfiE)
+I chose the song War by Drake because Drake is my favorite artist, and he dropped the song War on December 24th, 2019. That makes this the most "Christmas" song Drake has ever released.
 
-- [ ] Document your code thoroughly as you go with comments
-- [ ] Complete the required README using specified guidelines
+## Sources used
 
-## Grade your project before you submit
+- I found the Font for my Merry Christmas on https://fonts.google.com/specimen/Marhey?preview.text=Merry%20Christmas&preview.text_type=custom
+- I got the Drake song from https://youtu.be/9DJ3qSE4sCU
 
-- [ ] Before you submit your project, grade your project against the criteria below. 
-	[Rubric.md](Rubric.md)
+> Written with [StackEdit](https://stackedit.io/).
